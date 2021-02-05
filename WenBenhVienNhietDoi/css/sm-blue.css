@@ -132,7 +132,7 @@
 	}
 	.sm-blue a, .sm-blue a:hover, .sm-blue a:focus, .sm-blue a:active, .sm-blue a.highlighted {
 		padding: 17px 17px;
-		color: #333;
+		color: #fdfdfd;
 		text-transform: uppercase;
 	}
 	.sm-blue a:hover, .sm-blue a:focus, .sm-blue a:active, .sm-blue a.highlighted {
